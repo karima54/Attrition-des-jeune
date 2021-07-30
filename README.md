@@ -1,2 +1,0 @@
-# Attrition-des-jeune
-
