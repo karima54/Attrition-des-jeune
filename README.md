@@ -7,4 +7,4 @@ Les installer à partir de ``requirements.txt``:<br>
 # Déploiement Local 
 lancer le serveur :
 ``python app.py``
-# Licence
+
